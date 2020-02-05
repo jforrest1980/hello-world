@@ -1,5 +1,4 @@
 # hello-world
-A Hello World Project
-My name is Jeremy Forrest
-I am Computer Science Major
+My name is Jeremy Forrest /n
+I am Computer Science Major /n
 I want to do indie game development.
